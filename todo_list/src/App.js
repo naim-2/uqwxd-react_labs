@@ -71,7 +71,6 @@ const App = () => {
       setTodoEditing(null);
     }
 
-  
 return(
 <div id ="todo-list">
 <h1>Todo List</h1>
